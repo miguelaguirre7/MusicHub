@@ -12,7 +12,7 @@ class ApiRoutes {
 
     val API_URL_PROVEEDOR = "https://proveedores-api-production.up.railway.app/api/"
 
-    val API_URL_TRANSPORTE = "https://transportesithapi-production.up.railway.app/api/"
+    val API_URL_TRANSPORTE = "http://transportes-ith-api-production.up.railway.app/api/"
 
     val API_URL_BANCO = "http://www.itbank.somee.com/api/"
 
